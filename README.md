@@ -1,6 +1,12 @@
 # Character_Identification_NB_DT_SVM
-Character Identification using Naive Bayes, Decision Tree and Support Vector Machine from Scikit-learn
+    
+    Title: Character Identification using Naive Bayes, Decision Tree and Support Vector Machine from Scikit-learn
 
+    Category: Machine Learning
+
+    Author: Ryan Mokarian
+
+    Description:
 '''
     The following 3 Machine Learning algorithms run on 2 datasets, located in "DataSet_Release 2" folder.
         1. Decision Tree (DT)
