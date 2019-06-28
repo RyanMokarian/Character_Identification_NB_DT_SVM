@@ -6,7 +6,7 @@
 
     Author: Ryan Mokarian
 
-    Description:
+    Description: 
 '''
     The following 3 Machine Learning algorithms run on 2 datasets, located in "DataSet_Release 2" folder.
         1. Decision Tree (DT)
